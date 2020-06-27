@@ -1,5 +1,7 @@
 ---
-title:react-native-window에 대한 짧은 이야기
+title:"react-native-window에 대한 짧은 이야기"
+date:2020-06-27 16:05 -0400
+categories :react-native react react-native-window
 layout:post
 ---
 
